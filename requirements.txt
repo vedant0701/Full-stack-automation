@@ -1,0 +1,6 @@
+behave
+selenium
+requests
+kafka-python
+allure-behave
+pytest
