@@ -4,3 +4,4 @@ requests
 kafka-python
 allure-behave
 pytest
+webdriver-manager
